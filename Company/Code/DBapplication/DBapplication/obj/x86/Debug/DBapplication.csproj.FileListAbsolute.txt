@@ -1,0 +1,17 @@
+C:\Users\aashr\OneDrive\Desktop\Lab5 - Accessing DB from C# App - part2_Inst\Code\DBapplication\DBapplication\bin\Debug\DBapplication.exe.config
+C:\Users\aashr\OneDrive\Desktop\Lab5 - Accessing DB from C# App - part2_Inst\Code\DBapplication\DBapplication\bin\Debug\DBapplication.exe
+C:\Users\aashr\OneDrive\Desktop\Lab5 - Accessing DB from C# App - part2_Inst\Code\DBapplication\DBapplication\bin\Debug\DBapplication.pdb
+C:\Users\aashr\OneDrive\Desktop\Lab5 - Accessing DB from C# App - part2_Inst\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.csprojAssemblyReference.cache
+C:\Users\aashr\OneDrive\Desktop\Lab5 - Accessing DB from C# App - part2_Inst\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.AddProject.resources
+C:\Users\aashr\OneDrive\Desktop\Lab5 - Accessing DB from C# App - part2_Inst\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.AdminLogin.resources
+C:\Users\aashr\OneDrive\Desktop\Lab5 - Accessing DB from C# App - part2_Inst\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Properties.Resources.resources
+C:\Users\aashr\OneDrive\Desktop\Lab5 - Accessing DB from C# App - part2_Inst\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Provided_Functionalities.resources
+C:\Users\aashr\OneDrive\Desktop\Lab5 - Accessing DB from C# App - part2_Inst\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.RetrieveProjects.resources
+C:\Users\aashr\OneDrive\Desktop\Lab5 - Accessing DB from C# App - part2_Inst\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.ViewEmployees.resources
+C:\Users\aashr\OneDrive\Desktop\Lab5 - Accessing DB from C# App - part2_Inst\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Welcome.resources
+C:\Users\aashr\OneDrive\Desktop\Lab5 - Accessing DB from C# App - part2_Inst\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.csproj.GenerateResource.cache
+C:\Users\aashr\OneDrive\Desktop\Lab5 - Accessing DB from C# App - part2_Inst\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.csproj.CoreCompileInputs.cache
+C:\Users\aashr\OneDrive\Desktop\Lab5 - Accessing DB from C# App - part2_Inst\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.exe
+C:\Users\aashr\OneDrive\Desktop\Lab5 - Accessing DB from C# App - part2_Inst\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.pdb
+C:\Users\aashr\OneDrive\Desktop\Lab5 - Accessing DB from C# App - part2_Inst\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.EmployeeFunctionalities.resources
+C:\Users\aashr\OneDrive\Desktop\Lab5 - Accessing DB from C# App - part2_Inst\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.DepartmentFunctionalities.resources
