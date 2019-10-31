@@ -1,0 +1,31 @@
+F:\db\Fall2019\Lab#1 introduction to C#\Grocery\Grocery\bin\Debug\Grocery.exe.config
+F:\db\Fall2019\Lab#1 introduction to C#\Grocery\Grocery\bin\Debug\Grocery.exe
+F:\db\Fall2019\Lab#1 introduction to C#\Grocery\Grocery\bin\Debug\Grocery.pdb
+F:\db\Fall2019\Lab#1 introduction to C#\Grocery\Grocery\obj\Debug\Grocery.csprojResolveAssemblyReference.cache
+F:\db\Fall2019\Lab#1 introduction to C#\Grocery\Grocery\obj\Debug\Grocery.Form1.resources
+F:\db\Fall2019\Lab#1 introduction to C#\Grocery\Grocery\obj\Debug\Grocery.Properties.Resources.resources
+F:\db\Fall2019\Lab#1 introduction to C#\Grocery\Grocery\obj\Debug\Grocery.csproj.GenerateResource.Cache
+F:\db\Fall2019\Lab#1 introduction to C#\Grocery\Grocery\obj\Debug\Grocery.exe
+F:\db\Fall2019\Lab#1 introduction to C#\Grocery\Grocery\obj\Debug\Grocery.pdb
+F:\db\Fall2019\Lab#4 Accessing DB from C#\Grocery\Grocery\bin\Debug\Grocery.exe.config
+F:\db\Fall2019\Lab#4 Accessing DB from C#\Grocery\Grocery\obj\Debug\Grocery.exe
+F:\db\Fall2019\Lab#4 Accessing DB from C#\Grocery\Grocery\obj\Debug\Grocery.pdb
+F:\db\Fall2019\Lab#4 Accessing DB from C#\Grocery\Grocery\bin\Debug\Grocery.exe
+F:\db\Fall2019\Lab#4 Accessing DB from C#\Grocery\Grocery\bin\Debug\Grocery.pdb
+F:\db\Fall2019\Lab#4 Accessing DB from C#\Grocery\Grocery\obj\Debug\Grocery.csprojResolveAssemblyReference.cache
+F:\db\Fall2019\Lab#4 Accessing DB from C#\Grocery\Grocery\obj\Debug\Grocery.GroceryForm.resources
+F:\db\Fall2019\Lab#4 Accessing DB from C#\Grocery\Grocery\obj\Debug\Grocery.Properties.Resources.resources
+F:\db\Fall2019\Lab#4 Accessing DB from C#\Grocery\Grocery\obj\Debug\Grocery.csproj.GenerateResource.Cache
+D:\DB\Lab#4 Accessing DB from C#_updated\Lab#4 Accessing DB from C#\Grocery\Grocery\bin\Debug\Grocery.exe.config
+D:\DB\Lab#4 Accessing DB from C#_updated\Lab#4 Accessing DB from C#\Grocery\Grocery\obj\Debug\Grocery.exe
+D:\DB\Lab#4 Accessing DB from C#_updated\Lab#4 Accessing DB from C#\Grocery\Grocery\obj\Debug\Grocery.pdb
+C:\Users\aashr\OneDrive\Desktop\Grocery\Grocery\bin\Debug\Grocery.exe.config
+C:\Users\aashr\OneDrive\Desktop\Grocery\Grocery\bin\Debug\Grocery.exe
+C:\Users\aashr\OneDrive\Desktop\Grocery\Grocery\bin\Debug\Grocery.pdb
+C:\Users\aashr\OneDrive\Desktop\Grocery\Grocery\obj\Debug\Grocery.csprojAssemblyReference.cache
+C:\Users\aashr\OneDrive\Desktop\Grocery\Grocery\obj\Debug\Grocery.GroceryForm.resources
+C:\Users\aashr\OneDrive\Desktop\Grocery\Grocery\obj\Debug\Grocery.Properties.Resources.resources
+C:\Users\aashr\OneDrive\Desktop\Grocery\Grocery\obj\Debug\Grocery.csproj.GenerateResource.cache
+C:\Users\aashr\OneDrive\Desktop\Grocery\Grocery\obj\Debug\Grocery.csproj.CoreCompileInputs.cache
+C:\Users\aashr\OneDrive\Desktop\Grocery\Grocery\obj\Debug\Grocery.exe
+C:\Users\aashr\OneDrive\Desktop\Grocery\Grocery\obj\Debug\Grocery.pdb
